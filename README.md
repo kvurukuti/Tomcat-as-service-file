@@ -23,9 +23,9 @@ sudo vi tomcat
 STEP-8
 
 #!/bin/bash
-# description: Tomcat Start Stop Restart  
-# processname: tomcat  
-# chkconfig: 234 20 80
+#description: Tomcat Start Stop Restart  
+#processname: tomcat  
+#chkconfig: 234 20 80
 CATALINA_HOME=/opt/tomcat
 case $1 in  
 start)  
