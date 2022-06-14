@@ -1,4 +1,7 @@
 # Tomcat-as-service-file
+
+# copy all the steps in to the notepad and then proceed.
+
 STEP-1
 cd /opt
 
