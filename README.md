@@ -53,7 +53,9 @@ sudo chkconfig --level 234 tomcat on
 
 STEP-11
 sudo chkconfig tomcat on
+
 sudo systemctl start tomcat
+
 sudo systemctl status tomcat
 
 ###################################################
